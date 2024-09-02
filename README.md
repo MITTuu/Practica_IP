@@ -1,6 +1,5 @@
 
 ## Instrucciones Generales
-- El archivo **debe** llamarse **Examen3.py**
 - **Debe** respetar el nombre de las funciones y el nombre de los parámetros que más adelante se describen
 - Deben contruir las funciones con **Python**
 - Debe utilizar la programación solo por **recursión** 
@@ -8,16 +7,10 @@
 - Recordar que en este caso por evaluar vectores o matrices **no se debe recortar**, solo el recorrido es por sus índices
 - Pueden hacer uso **Try/Except, isinstance, type**
 - Pueden hacer el uso de las funciones que se va creando durante el examen
-- En todos los problemas aquí expuestos debe de validarse:
-	-  de que los vectores acepten solo números enteros
-	-  la matriz no debe ser nula
-	-  deben ser homogéneas y del mismo largo
-	-  los mensajes de error deben ser claros
 - Cada pregunta vale 10 puntos:
  	- 1 punto comentarios
  	- 2 puntos validaciones
  	- 7 puntos resolución del problema
- - Usar el **IDLE de Python**, no usar **VSCode**
 
 
 ## numeroHermano(num)
